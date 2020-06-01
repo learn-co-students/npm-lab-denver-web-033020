@@ -153,7 +153,7 @@ building our own applications, we will often rely on existing packages to handle
 specific pieces of a project.
 
 Although we only installed one package in this lab, there are many layers of
-dependencies for them, and many of additional dependencies were installed.
+dependencies for them, and many of their additional dependencies were installed.
 It isn't necessary to understand _how_ each of these works. The main thing to
 grasp is how to implement and use the specific dependencies you need.
 
