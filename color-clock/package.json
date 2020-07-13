@@ -1,0 +1,27 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "clock application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LynnAmsbury/npm-lab-denver-web-033020.git"
+  },
+  "keywords": [
+    "Flatiron",
+    "School",
+    "clock"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LynnAmsbury/npm-lab-denver-web-033020/issues"
+  },
+  "homepage": "https://github.com/LynnAmsbury/npm-lab-denver-web-033020#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
