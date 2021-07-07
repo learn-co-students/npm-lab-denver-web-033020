@@ -83,12 +83,12 @@ way for now. Follow the prompts until the end and a fully constructed
 
 ### Add a Script
 
-In the process of creating the `package.json` file, you wre prompted to
+In the process of creating the `package.json` file, you were prompted to
 write a test script. Let's add a working script in to see how this works.
 
 Open the newly created `package.json` file and look for a section
 titled `"scripts"`. Let's replace the default `"test"` script with
-an shell command:
+a shell command:
 
 ```json
 "scripts": {
@@ -153,7 +153,7 @@ building our own applications, we will often rely on existing packages to handle
 specific pieces of a project.
 
 Although we only installed one package in this lab, there are many layers of
-dependencies for them, and many of additional dependencies were installed.
+dependencies for them, and many of their additional dependencies were installed.
 It isn't necessary to understand _how_ each of these works. The main thing to
 grasp is how to implement and use the specific dependencies you need.
 
